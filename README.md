@@ -1,2 +1,40 @@
 # C_the_hard-way
 Me reading the book learn C the hard-way and taking notes and implementing the exercises  
+## Exercises 
+- [x] [Ex16](Ex16/Exercise16.md)
+- [ ] Ex17
+- [ ] Ex18
+- [ ] Ex19
+- [ ] Ex20
+- [ ] Ex21
+- [ ] Ex22
+- [ ] Ex23
+- [ ] Ex24
+- [ ] Ex25
+- [ ] Ex26
+- [ ] Ex27
+- [ ] Ex28
+- [ ] Ex29
+- [ ] Ex30
+- [ ] Ex31
+- [ ] Ex32
+- [ ] Ex33
+- [ ] Ex34
+- [ ] Ex35
+- [ ] Ex36
+- [ ] Ex37
+- [ ] Ex38
+- [ ] Ex39
+- [ ] Ex40
+- [ ] Ex41
+- [ ] Ex42
+- [ ] Ex43
+- [ ] Ex44
+- [ ] Ex45
+- [ ] Ex46
+- [ ] Ex47
+- [ ] Ex48
+- [ ] Ex49
+- [ ] Ex50
+- [ ] Ex51
+- [ ] Ex52
